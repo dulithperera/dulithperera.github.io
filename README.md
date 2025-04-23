@@ -36,16 +36,16 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 <br>
 ## __Skills__
 
-- __Technical Skills__ :
+- 🧠 __Technical Skills__ :
     - HTML, CSS, Java, C, JavaScript, MySQL
 
-- __Software Tools__ :
+- 🛠️ __Software Tools__ :
     - Microsoft Office
 
-- __Languages__ :
+- 🗣️ __Languages__ :
     - English, Sinhala
 
-- __Other__ :
+- 📈 __Other__ :
     - Logical Thinking
 
 <br>
