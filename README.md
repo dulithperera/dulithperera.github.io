@@ -1,7 +1,7 @@
 # 🌐 Dulith Perera's Portfolio
 
 [🏠 Home](#home)
-[👤 About](#about)
+[👤 About](#👤about)
 [![Projects](https://img.shields.io/badge/-Projects-orange)](#projects)
 [![Contact](https://img.shields.io/badge/-Contact-red)](#contact)
 
@@ -23,7 +23,7 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## About 
+## 👤 About 
 
 | Detail             | Information                    |
 |--------------------|---------------------------------|
