@@ -62,7 +62,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 
 
-##### Certificates
+#### Certificates
 - Introduction to C – SoloLearn (Jun 2024)  
 - Introduction to SQL – SoloLearn (Feb 2024)  
 - Java Intermediate – SoloLearn (Feb 2024)  
@@ -110,4 +110,3 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 <div align="center">
   <p>© All rights reserved   |   Dulith Perera </p>
 </div>
-
