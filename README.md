@@ -1,7 +1,7 @@
 # 🌐 Dulith Perera's Portfolio
 
-[Home](#home)
-[About](#about)
+[🏠 Home](#home)
+[👤 About](#about)
 [![Projects](https://img.shields.io/badge/-Projects-orange)](#projects)
 [![Contact](https://img.shields.io/badge/-Contact-red)](#contact)
 
