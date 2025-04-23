@@ -1,6 +1,4 @@
-[🏠 Home](#home)  |  [👤 About](#aboutme)  |  [💡 Skills](#skills)  |  [🎓 Education](#education)  |  [📜 Certificates](#certificates)
-[🛠️ Services](#services)
-[📞 Contact Me](#contactme)
+[🏠 Home](#home)  |  [👤 About Me](#aboutme)  |  [💡 Skills](#skills)  |  [🎓 Education](#education)  |  [📜 Certificates](#certificates)  |  [🛠️ Services](#services)  |  [📞 Contact Me](#contactme)
 
 # 🌐 Dulith Perera's Portfolio
 
@@ -60,7 +58,9 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 - 📘 *Wisdom Business Academy* – CIMA (2022–Present)
 - 🎓 *University of Sri Jayewardenepura* – UG B.Comp(Hons) in Computer Science (2023–2027)
 
-### Certificates
+---
+
+## Certificates
 - Introduction to C – SoloLearn (Jun 2024)  
 - Introduction to SQL – SoloLearn (Feb 2024)  
 - Java Intermediate – SoloLearn (Feb 2024)  
@@ -68,7 +68,7 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## 🛠️ Services
+## Services
 
 - Website Development  
 - UI/UX Development  
