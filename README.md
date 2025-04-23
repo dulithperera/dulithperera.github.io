@@ -28,6 +28,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 | **Religion**       | Buddhism                        |
 | **Profession**     | Student                         |
 | **Address**        | 17, Hena Road, Mount Lavinia    |
+
 <br>
 
 ---
@@ -66,6 +67,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 - Introduction to SQL – SoloLearn (Feb 2024)  
 - Java Intermediate – SoloLearn (Feb 2024)  
 - Intro to Programming with Java – SoloLearn (Jan 2024)
+
 <br>
 
 ---
