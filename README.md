@@ -2,7 +2,7 @@
   <a href="#about-me">👤 About Me</a> • <a href="#skills">💡 Skills</a> • <a href="#education">🎓 Education</a> • <a href="#services">🛠️ Services</a> • <a href="#contact-me">📞 Contact Me</a>
 </div>
 
-<h1>🌐 Dulith Perera's Portfolio</h1> 
+<h1><b>🌐 Dulith Perera's Portfolio</b></h1> 
 <br>
 
 <div align="center">
@@ -36,16 +36,16 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 <br>
 ## Skills
 
-- Technical Skills :
+- __Technical Skills__ :
     - HTML, CSS, Java, C, JavaScript, MySQL
 
-- Software Tools :
+- __Software Tools__ :
     - Microsoft Office
 
-- Languages :
+- __Languages__ :
     - English, Sinhala
 
-- Other :
+- __Other__ :
     - Logical Thinking
 
 <br>
