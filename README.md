@@ -1,4 +1,5 @@
-[Home](#home)  |  [About Me](#about-me)  |  [Skills](#skills)  |  [Education](#education)  |  [Services](#services)  |  [Contact Me](#contact-me)
+[Home](#home)  
+[About Me](#about-me)  |  [Skills](#skills)  |  [Education](#education)  |  [Services](#services)  |  [Contact Me](#contact-me)
 
 
 ## Home
