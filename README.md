@@ -1,5 +1,3 @@
-# 🌐 Dulith Perera's Portfolio
-
 [🏠 Home](#home)
 [👤 About](#aboutme)
 [💡 Skills](#skills)
@@ -8,6 +6,7 @@
 [🛠️ Services](#services)
 [📞 Contact Me](#contactme)
 
+# 🌐 Dulith Perera's Portfolio
 
 Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
 
