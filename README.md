@@ -1,22 +1,15 @@
 [Home](#home)  |  [About Me](#about-me)  |  [Skills](#skills)  |  [Education](#education)  |  [Services](#services)  |  [Contact Me](#contact-me)
 
-# 🌐 Dulith Perera's Portfolio
-
-Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
-
-> 🎯 Built using HTML, CSS (external stylesheet), and Font Awesome/Boxicons.
-
----
 
 ## Home
-
-**Hey, I'm Dulith!**  
-A hardworking and dedicated Computer Science undergraduate with a keen interest in **AI and Machine Learning**.
-
+# 🌐 Dulith Perera's Portfolio
 
 <div align="center">
   <img src="Screenshot 2025-04-23 at 15.46.59.png" width="250" alt="My Photo">
 </div>
+
+Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
+
 
 ---
 
