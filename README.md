@@ -3,7 +3,6 @@
 
 <h1>🌐 Dulith Perera's Portfolio</h1> 
 
-
 <div align="center">
   <img src="Screenshot 2025-04-23 at 15.46.59.png" width="250" alt="My Photo">
 </div>
