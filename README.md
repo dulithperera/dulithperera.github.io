@@ -1,19 +1,18 @@
-[👤 About Me](#about-me)  .  [💡 Skills](#skills)  .  [🎓 Education](#education)  .  [🛠️ Services](#services)  .  [📞 Contact Me](#contact-me)
-
+<div align="center">
+  [[👤 About Me](#about-me)  .  [💡 Skills](#skills)  .  [🎓 Education](#education)  .  [🛠️ Services](#services)  .  [📞 Contact Me](#contact-me)
+</div>
 
 <h1>🌐 Dulith Perera's Portfolio</h1> 
-
+<br>
 <div align="center">
   <img src="Screenshot 2025-04-23 at 15.46.59.png" width="250" alt="My Photo">
 </div>
-
+<br>
 Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
 
 
 ---
 
-<br>
-<br>
 <br>
 <br>
 <br>
