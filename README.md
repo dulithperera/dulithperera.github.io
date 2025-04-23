@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#about-me">👤 About Me</a> • <a href="#skills">💡 Skills</a> . <a href="#education">🎓 Education</a> . <a href="#services">🛠️ Services</a> . <a href="#contact-me">📞 Contact Me</a>
+  <a href="#about-me">👤 About Me</a> • <a href="#skills">💡 Skills</a> • <a href="#education">🎓 Education</a> • <a href="#services">🛠️ Services</a> • <a href="#contact-me">📞 Contact Me</a>
 </div>
 <h1>🌐 Dulith Perera's Portfolio</h1> 
 <br>
@@ -12,8 +12,6 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 ---
 
-<br>
-<br>
 <br>
 
 ## About Me 
