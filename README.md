@@ -1,4 +1,4 @@
-[🏠 Home](#home)  |  [👤 About Me](#aboutme)  |  [💡 Skills](#skills)  |  [🎓 Education](#education)  |  [📜 Certificates](#certificates)  |  [🛠️ Services](#services)  |  [📞 Contact Me](#contactme)
+[🏠 Home](#home)  |  [👤 About Me](#about_me)  |  [💡 Skills](#skills)  |  [🎓 Education](#education)  |  [📜 Certificates](#certificates)  |   [🛠️ Services](#services)  |  [📞 Contact Me](#contactme)
 
 # 🌐 Dulith Perera's Portfolio
 
