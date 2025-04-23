@@ -75,12 +75,12 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 <br>
 ## Services
 
-- [Website Development](https://www.vecteezy.com/vector-art/3377380-line-icon-for-web-develop)  
-- UI/UX Development  
-- Graphic Designing  
-- Product Designing  
-- Social Media Marketing  
-- Content Marketing
+- __Website Development__ 
+- __UI/UX Development__  
+- __Graphic Designing__  
+- __Product Designing__  
+- __Social Media Marketing__  
+- __Content Marketing__
   
 <br>
 
