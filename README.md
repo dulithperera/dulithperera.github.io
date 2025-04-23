@@ -1,3 +1,4 @@
+[👤 About Me](#about-me)  .  [💡 Skills](#skills)  .  [🎓 Education](#education)  .  [🛠️ Services](#services)  .  [📞 Contact Me](#contact-me)
 
 <div align="center">
   <a href="#home">Home</a> • <a href="#about-me">About</a> • <a href="#skills">Skills</a>
