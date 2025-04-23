@@ -81,6 +81,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 - Product Designing  
 - Social Media Marketing  
 - Content Marketing
+  
 <br>
 
 ---
@@ -91,6 +92,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 **📍 Address:** 17, Hena Road, Mount Lavinia, Sri Lanka  
 **📞 Phone:** +94 (0)76 545 6551  
 **📧 Email:** dulith.perera24@gmail.com
+
 <br>
 
 ---
