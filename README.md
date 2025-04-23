@@ -23,7 +23,7 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## 👤 About Me
+## 👤 About 
 
 | Detail             | Information                    |
 |--------------------|---------------------------------|
