@@ -4,6 +4,12 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 > 🎯 Built using HTML, CSS (external stylesheet), and Font Awesome/Boxicons.
 
+
+[![Home](https://img.shields.io/badge/-Home-blue)](#home)
+[![About](https://img.shields.io/badge/-About-green)](#about)
+[![Projects](https://img.shields.io/badge/-Projects-orange)](#projects)
+[![Contact](https://img.shields.io/badge/-Contact-red)](#contact)
+
 --
 
 ## 🏠 Home
