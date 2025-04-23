@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 ---
 <br>
 
-## About Me 
+## __About Me__ 
 
 | Detail             | Information                    |
 |--------------------|---------------------------------|
@@ -34,7 +34,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 ---
 
 <br>
-## Skills
+## __Skills__
 
 - __Technical Skills__ :
     - HTML, CSS, Java, C, JavaScript, MySQL
@@ -53,7 +53,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 ---
 
 <br>
-## Education
+## __Education__
 
 - 🏫 *St. Peter's College, Colombo 04* (2007–2011)
 - 🏫 *S. Thomas' College, Mount Lavinia* (2012–2020)
@@ -62,7 +62,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 
 
-#### Certificates
+##### Certificates
 - Introduction to C – SoloLearn (Jun 2024)  
 - Introduction to SQL – SoloLearn (Feb 2024)  
 - Java Intermediate – SoloLearn (Feb 2024)  
@@ -73,7 +73,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 ---
 
 <br>
-## Services
+## __Services__
 
 - 💻 __Website Development__ 
 - 🎨 __UI/UX Development__  
@@ -87,7 +87,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 ---
 
 <br>
-## Contact Me
+## __Contact Me__
 
 **📍 Address:** 17, Hena Road, Mount Lavinia, Sri Lanka  
 **📞 Phone:** +94 (0)76 545 6551  
@@ -98,7 +98,9 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 ---
 
 <br>
-## 🌍 Connect With Me
+## 🌍 __Connect With Me__
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulithperera24/) | [![X](https://img.shields.io/badge/-X-black?logo=x&logoColor=white)](https://x.com/perera_dulith) | [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008935265929)
 
