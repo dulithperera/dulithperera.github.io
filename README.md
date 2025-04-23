@@ -1,17 +1,19 @@
 <div align="center">
   <a href="#about-me">👤 About Me</a> • <a href="#skills">💡 Skills</a> • <a href="#education">🎓 Education</a> • <a href="#services">🛠️ Services</a> • <a href="#contact-me">📞 Contact Me</a>
 </div>
+
 <h1>🌐 Dulith Perera's Portfolio</h1> 
 <br>
+
 <div align="center">
   <img src="Screenshot 2025-04-23 at 15.46.59.png" width="250" alt="My Photo">
 </div>
+
 <br>
 Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
-
+<br>
 
 ---
-
 <br>
 
 ## About Me 
@@ -26,9 +28,11 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 | **Religion**       | Buddhism                        |
 | **Profession**     | Student                         |
 | **Address**        | 17, Hena Road, Mount Lavinia    |
+<br>
 
 ---
 
+<br>
 ## Skills
 
 - Technical Skills :
@@ -43,8 +47,11 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 - Other :
     - Logical Thinking
 
+<br>
+
 ---
 
+<br>
 ## Education
 
 - 🏫 *St. Peter's College, Colombo 04* (2007–2011)
@@ -59,9 +66,11 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 - Introduction to SQL – SoloLearn (Feb 2024)  
 - Java Intermediate – SoloLearn (Feb 2024)  
 - Intro to Programming with Java – SoloLearn (Jan 2024)
+<br>
 
 ---
 
+<br>
 ## Services
 
 - Website Development  
@@ -70,17 +79,21 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 - Product Designing  
 - Social Media Marketing  
 - Content Marketing
+<br>
 
 ---
 
+<br>
 ## Contact Me
 
 **📍 Address:** 17, Hena Road, Mount Lavinia, Sri Lanka  
 **📞 Phone:** +94 (0)76 545 6551  
 **📧 Email:** dulith.perera24@gmail.com
+<br>
 
 ---
 
+<br>
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dulithperera24/)  
