@@ -2,7 +2,7 @@
   <a href="#about-me">👤 About Me</a> • <a href="#skills">💡 Skills</a> • <a href="#education">🎓 Education</a> • <a href="#services">🛠️ Services</a> • <a href="#contact-me">📞 Contact Me</a>
 </div>
 
-<h1><b>🌐 Dulith Perera's Portfolio</b></h1> 
+<h1><b>🌐 My Portfolio</b></h1> 
 <br>
 
 <div align="center">
