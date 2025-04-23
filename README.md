@@ -1,7 +1,5 @@
-[👤 About Me](#about-me)  .  [💡 Skills](#skills)  .  [🎓 Education](#education)  .  [🛠️ Services](#services)  .  [📞 Contact Me](#contact-me)
-
 <div align="center">
-  <a href="#home">Home</a> • <a href="#about-me">About</a> • <a href="#skills">Skills</a>
+  <a href="#about-me">👤 About Me</a> • <a href="#skills">💡 Skills</a> . <a href="#education">🎓 Education</a> . <a href="#services">🛠️ Services</a> . <a href="#contact-me">📞 Contact Me</a>
 </div>
 <h1>🌐 Dulith Perera's Portfolio</h1> 
 <br>
