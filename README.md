@@ -1,6 +1,5 @@
 [🏠 Home](#home)
-
-[👤 About](#aboutme)
+  [👤 About](#aboutme)
 [💡 Skills](#skills)
 [🎓 Education](#education)
 [📜 Certificates](#certificates)
