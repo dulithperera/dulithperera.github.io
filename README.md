@@ -12,6 +12,10 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 ---
 
+
+
+
+
 ## About Me 
 
 | Detail             | Information                    |
