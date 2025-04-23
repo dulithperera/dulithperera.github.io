@@ -18,16 +18,16 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 ## __About Me__ 
 
-| Detail             | Information                    |
-|--------------------|---------------------------------|
-| **Date of Birth**  | 24.05.2001                      |
-| **Gender**         | Male                            |
-| **Age**            | 23                              |
-| **Marital Status** | Single                          |
-| **Nationality**    | Sri Lankan                      |
-| **Religion**       | Buddhism                        |
-| **Profession**     | Student                         |
-| **Address**        | 17, Hena Road, Mount Lavinia    |
+| Detail                | Information                    |
+|-----------------------|---------------------------------|
+| 🗓️ **Date of Birth**  | 24.05.2001                      |
+| 🚻 **Gender**         | Male                            |
+| 🎂 **Age**            | 23                              |
+| 💍 **Marital Status** | Single                          |
+| 🌍 **Nationality**    | Sri Lankan                      |
+| 🕊️ **Religion**       | Buddhism                        |
+| 💼 **Profession**     | Student                         |
+| 🏠 **Residence**      | 17, Hena Road, Mount Lavinia    |
 
 <br>
 
