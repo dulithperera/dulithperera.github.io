@@ -1,9 +1,13 @@
 # 🌐 Dulith Perera's Portfolio
 
 [🏠 Home](#home)
-[👤 About](#👤about)
-[![Projects](https://img.shields.io/badge/-Projects-orange)](#projects)
-[![Contact](https://img.shields.io/badge/-Contact-red)](#contact)
+[👤 About](#aboutme)
+[💡 Skills](#skills)
+[🎓 Education](#education)
+[📜 Certificates](#certificates)
+[🛠️ Services](#services)
+[📞 Contact Me](#contactme)
+
 
 Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
 
@@ -11,7 +15,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 ---
 
-## 🏠 Home
+## Home
 
 **Hey, I'm Dulith!**  
 A hardworking and dedicated Computer Science undergraduate with a keen interest in **AI and Machine Learning**.
@@ -23,7 +27,7 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## 👤 About 
+## About Me 
 
 | Detail             | Information                    |
 |--------------------|---------------------------------|
@@ -38,7 +42,7 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## 💡 Skills
+## Skills
 
 **Technical Skills**:
 - HTML, CSS, Java, C, JavaScript, MySQL
@@ -54,14 +58,14 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## 🎓 Education
+## Education
 
 - 🏫 *St. Peter's College, Colombo 04* (2007–2011)
 - 🏫 *S. Thomas' College, Mount Lavinia* (2012–2020)
 - 📘 *Wisdom Business Academy* – CIMA (2022–Present)
 - 🎓 *University of Sri Jayewardenepura* – UG B.Comp(Hons) in Computer Science (2023–2027)
 
-### 📜 Certificates
+### Certificates
 - Introduction to C – SoloLearn (Jun 2024)  
 - Introduction to SQL – SoloLearn (Feb 2024)  
 - Java Intermediate – SoloLearn (Feb 2024)  
@@ -80,7 +84,7 @@ A hardworking and dedicated Computer Science undergraduate with a keen interest 
 
 ---
 
-## 📞 Contact Me
+## Contact Me
 
 **📍 Address:** 17, Hena Road, Mount Lavinia, Sri Lanka  
 **📞 Phone:** +94 (0)76 545 6551  
