@@ -100,9 +100,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 <br>
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulithperera24/)  
-[![Twitter](https://img.shields.io/badge/-X-black?logo=x&logoColor=white)](https://x.com/perera_dulith)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008935265929)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulithperera24/) | [![X](https://img.shields.io/badge/-X-black?logo=x&logoColor=white)](https://x.com/perera_dulith) | [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008935265929)
 
 ---
 
