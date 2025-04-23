@@ -75,12 +75,12 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 <br>
 ## Services
 
-- __Website Development__ 
-- __UI/UX Development__  
-- __Graphic Designing__  
-- __Product Designing__  
-- __Social Media Marketing__  
-- __Content Marketing__
+- 💻 __Website Development__ 
+- 🎨 __UI/UX Development__  
+- 🧑‍🎨 __Graphic Designing__  
+- 📦 __Product Designing__  
+- 📣 __Social Media Marketing__  
+- 🎥 __Content Marketing__
   
 <br>
 
