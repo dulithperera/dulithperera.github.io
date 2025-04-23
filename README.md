@@ -33,17 +33,17 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 ## Skills
 
-**Technical Skills**:
-- HTML, CSS, Java, C, JavaScript, MySQL
+- Technical Skills :
+    - HTML, CSS, Java, C, JavaScript, MySQL
 
-**Software Tools**:
-- Microsoft Office
+- Software Tools :
+    - Microsoft Office
 
-**Languages**:
-- English, Sinhala
+- Languages :
+    - English, Sinhala
 
-**Other**:
-- Logical Thinking
+- Other :
+    - Logical Thinking
 
 ---
 
