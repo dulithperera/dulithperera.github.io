@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 
 > 🎯 Built using HTML, CSS (external stylesheet), and Font Awesome/Boxicons.
 
-
+--
 
 ## 🏠 Home
 
