@@ -1,16 +1,15 @@
 # 🌐 Dulith Perera's Portfolio
 
-Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
-
-> 🎯 Built using HTML, CSS (external stylesheet), and Font Awesome/Boxicons.
-
-
 [![Home](https://img.shields.io/badge/-Home-blue)](#home)
 [![About](https://img.shields.io/badge/-About-green)](#about)
 [![Projects](https://img.shields.io/badge/-Projects-orange)](#projects)
 [![Contact](https://img.shields.io/badge/-Contact-red)](#contact)
 
---
+Welcome to my personal portfolio website! This site showcases my background, skills, education, services, and how to get in touch with me.
+
+> 🎯 Built using HTML, CSS (external stylesheet), and Font Awesome/Boxicons.
+
+---
 
 ## 🏠 Home
 
