@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This site showcases my background, ski
 **Hey, I'm Dulith!**  
 A hardworking and dedicated Computer Science undergraduate with a keen interest in **AI and Machine Learning**.
 
-![My Photo](result.png)
+![My Photo](Screenshot 2025-04-23 at 15.46.59.png)
 
 ---
 
